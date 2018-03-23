@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LogInAppJ</string>
+    <string name="tvRes">TextView</string>
+    <string name="btnOkay">Button</string>
+    <string name="USERNAME">Username</string>
+    <string name="PASSWORD">Password</string>
+    <string name="OKButton">OK</string>
+</resources>
